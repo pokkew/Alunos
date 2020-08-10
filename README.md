@@ -6,4 +6,4 @@ Lista dos Githubs dos meus alunos
 - Henrique: https://github.com/HenryTufano
 - Davi: https://github.com/davisrosa
 - Gyll: https://github.com/Gyllm
-
+- Valmir: https://github.com/ValmirCandido
