@@ -7,3 +7,6 @@ Lista dos Githubs dos meus alunos
 - Davi: https://github.com/davisrosa
 - Gyll: https://github.com/Gyllm
 - Valmir: https://github.com/ValmirCandido
+- Bruno: https://github.com/BrunoMendonza
+- Igor: https://github.com/Gui0710
+- Felipe: https://github.com/kluzmos
